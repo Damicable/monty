@@ -1,10 +1,10 @@
 #include "monty.h"
 
 /**
-* f_pchar - function that prints the char at the top of the stack,
-* followed by a new line
-* @head: stack head
-* @counter: line count
+* f_pchar - This function prints the char at the top of the stack,
+* followed by a new line.
+* @head: The head of the stack.
+* @counter: A line count
 *
 * Return: nothing
 */

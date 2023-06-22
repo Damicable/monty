@@ -1,9 +1,9 @@
 #include "monty.h"
 
 /**
-* f_add - function that adds the top two elements of the stack
-* @head: double pointer head to the stack
-* @counter: line count
+* f_add - This is a function that adds the top two elements of the stack
+* @head: A double pointer head to the stack.
+* @counter: The line count
 *
 * Return: nothing
 */
@@ -34,9 +34,9 @@ void f_add(stack_t **head, unsigned int counter)
 }
 
 /**
-* f_sub - function that substracts nodes
-* @head: double head pointer to the stack
-* @counter: line count
+* f_sub - This is a function that substracts nodes.
+* @head: A double head pointer to the stack
+* @counter: The line count
 *
 * Return: nothing
 */
@@ -64,9 +64,9 @@ void f_sub(stack_t **head, unsigned int counter)
 }
 
 /**
-* f_mul - function that multiplies the top two elements of the stack
-* @head: double head pointer to the stack
-* @counter: line count
+* f_mul - This function multiplies the top two elements of the stack.
+* @head: A double head pointer to the stack.
+* @counter: A line count
 *
 * Return: nothing
 */
@@ -97,9 +97,9 @@ void f_mul(stack_t **head, unsigned int counter)
 }
 
 /**
-* f_div - function that divides the top two elements of the stack
-* @head: double head pointer to the stack
-* @counter: line count
+* f_div - This function divides the top two elements of the stack.
+* @head: A double head pointer to the stack.
+* @counter: A line count
 *
 * Return: nothing
 */
@@ -138,10 +138,10 @@ void f_div(stack_t **head, unsigned int counter)
 }
 
 /**
-* f_mod - function that computes the remainder of the division of the second
-* top element of the stack by the top element of the stack
-* @head: double head pointer to the stack
-* @counter: line count
+* f_mod - This function computes the remainder of the division of the second
+* top element of the stack by the top element of the stack.
+* @head: A double head pointer to the stack
+* @counter: A line count
 *
 * Return: nothing
 */

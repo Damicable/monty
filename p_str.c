@@ -1,10 +1,10 @@
 #include "monty.h"
 
 /**
-* f_pstr - function that prints the string starting at the top of the stack,
-* followed by a new
-* @head: head of stack
-* @counter: line count
+* f_pstr - This function prints the string starting at the top of the stack,
+* followed by a new line.
+* @head: Head of stack.
+* @counter: A line count
 *
 * Return: nothing
 */
